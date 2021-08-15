@@ -1,1 +1,0 @@
-# Django_For_Begginers
